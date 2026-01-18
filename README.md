@@ -37,6 +37,3 @@ My main tech stack is **React, JavaScript**.
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7AB0A&width=500&lines=Learning+React+%26+JavaScript;Deep+interest+in+3D+development;Coding+every+day)
 
 
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7AB0A&width=500&lines=Learning+React+%26+JavaScript;Deep+interest+in+3D+development;Coding+every+day)
