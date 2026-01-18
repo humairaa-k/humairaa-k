@@ -1,9 +1,9 @@
 Hi There! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" height="25" style="vertical-align:middle"/> 
 
- I’m **Humira Khaliq** — a wevb developer in progress with a **deep interest in 3D development**.  
+ I’m **Humira Khaliq** — a wevb developer in progress with a deep interest in 3D development.  
 I enjoy building interactive interfaces and improving my coding logic every day 💻🌱  
 
-My main tech stack is **React, JavaScript**.  
+My main tech stack is React, JavaScript.  
 
 
  💡 What I’m up to
@@ -31,9 +31,9 @@ My main tech stack is **React, JavaScript**.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💡 Fun Facts
-- Hobbies: anime, reading, building things  
-- Lifelong learner & aspiring 3D developer 🎨
+- Hobbies: reading, building things and bunch of diff hobbies   
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7AB0A&width=500&lines=Learning+React+%26+JavaScript;Deep+interest+in+3D+development;Coding+every+day)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7AB0A&width=500&lines=Learning+React+%26+JavaScript;Coding+every+day)
+
 
 
