@@ -1,19 +1,19 @@
-## Hi There!
+Hi There!  
 
- I’m **Humira Khaliq** — a frontend developer in progress with a **deep interest in 3D development**.  
+ I’m **Humira Khaliq** — a wevb developer in progress with a **deep interest in 3D development**.  
 I enjoy building interactive interfaces and improving my coding logic every day 💻🌱  
 
 My main tech stack is **React, JavaScript**.  
 
 
-## 💡 What I’m up to
+ 💡 What I’m up to
 - Building **interactive UIs** with React  
 - Exploring **3D development** alongside frontend ✨  
 - Strengthening my **problem-solving & programming skills** 🧠  
 
 ---
 
-## 🛠 Skills & Tools
+ 🛠 Skills & Tools
 
 ### Frontend (Current Focus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
