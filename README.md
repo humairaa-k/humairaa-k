@@ -3,7 +3,8 @@
  I’m **Humira Khaliq** — a frontend developer in progress with a **deep interest in 3D development**.  
 I enjoy building interactive interfaces and improving my coding logic every day 💻🌱  
 
----
+My main tech stack is **React, JavaScript, Tailwind, Bootstrap, SASS**.  
+
 
 ## 💡 What I’m up to
 - Building **interactive UIs** with React  
@@ -29,11 +30,12 @@ I enjoy building interactive interfaces and improving my coding logic every day 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+## 💡 Fun Facts
+- Hobbies: anime, reading, building things  
+- Lifelong learner & aspiring 3D developer 🎨
 
-## ✨ Fun Facts
-- Coffee in hand, ideas in mind ☕💭  
-- Lifelong learner & aspiring **3D developer** 🎨  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7AB0A&width=500&lines=Learning+React+%26+JavaScript;Deep+interest+in+3D+development;Coding+every+day)
+
 
 ---
 
