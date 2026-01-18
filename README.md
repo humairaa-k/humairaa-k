@@ -3,7 +3,7 @@
  I’m **Humira Khaliq** — a frontend developer in progress with a **deep interest in 3D development**.  
 I enjoy building interactive interfaces and improving my coding logic every day 💻🌱  
 
-My main tech stack is **React, JavaScript, Tailwind, Bootstrap, SASS**.  
+My main tech stack is **React, JavaScript**.  
 
 
 ## 💡 What I’m up to
