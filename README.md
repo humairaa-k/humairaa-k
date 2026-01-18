@@ -1,4 +1,4 @@
-Hi There! ![wave](https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif)
+Hi There! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" height="25" style="vertical-align:middle"/> 
 
  I’m **Humira Khaliq** — a wevb developer in progress with a **deep interest in 3D development**.  
 I enjoy building interactive interfaces and improving my coding logic every day 💻🌱  
