@@ -3,7 +3,7 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [LinkedIn](https://www.linkedin.com/in/humaira-khaliq-92511039a) &nbsp;·&nbsp;
-[email](mailto:humirakhaliq2@gmail.com)
+[email](humirakhaliq2@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@ Three.js, and GSAP.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>javascript &nbsp; typescript &nbsp; html &nbsp; css &nbsp; react &nbsp; next.js &nbsp; tailwind &nbsp; mui &nbsp; scss &nbsp; php &nbsp; mysql &nbsp; jest</samp>
+<samp>javascript &nbsp; typescript &nbsp; html &nbsp; css &nbsp; react &nbsp; next.js &nbsp; tailwind &nbsp; mui &nbsp; redux &nbsp; scss &nbsp; bootstrap &nbsp; php &nbsp; mysql &nbsp; jest &nbsp; git and github &nbsp; figma</samp>
 
 <img src="./hd-exploring.svg" width="620" alt="currently exploring"/>
 
