@@ -1,5 +1,7 @@
 <div align="center">
-<img src="./name.svg" alt="Humaira Khaliq"/>
+<img src="./name.svg" width="420" alt="Humaira Khaliq"/>
+
+  
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [LinkedIn](https://www.linkedin.com/in/humaira-khaliq-92511039a) &nbsp;·&nbsp;
