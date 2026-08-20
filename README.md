@@ -44,7 +44,7 @@ Frontend Architecture &nbsp;·&nbsp; Scalable & Maintainable UI &nbsp;·&nbsp; F
 Creative Development &nbsp;·&nbsp; Three.js & WebGL &nbsp;·&nbsp; Motion & Interaction
 
 
-<img src="./hd-looking-for.svg" width="620" alt="looking for"/>
+ Looking For
 
 - Remote internship opportunities where I can contribute to meaningful,
   real-world applications
