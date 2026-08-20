@@ -1,9 +1,9 @@
 <div align="center">
-
+<img src="./name.svg" alt="Humaira Khaliq"/>
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [LinkedIn](https://www.linkedin.com/in/humaira-khaliq-92511039a) &nbsp;·&nbsp;
-[email](humirakhaliq2@gmail.com)
+[email](mailto:humirakhaliq2@gmail.com)
 
 </div>
 
@@ -27,9 +27,9 @@ Three.js, and GSAP.
 <img src="./hd-journey.svg" width="620" alt="developer journey"/>
 
 **2024** — Started learning web development; built a foundation in HTML, CSS,<br>
-and JavaScript.
+and Bootstrap.
 
-**2025** — Expanded into PHP and MySQL, exploring backend fundamentals.
+**2025** — Expanded into JavaScript, PHP and MySQL, exploring backend fundamentals.
 
 **2026** — Learned React and Next.js through Code to Inspire. Now diving into<br>
 Three.js, GSAP, and Blender, exploring creative development and 3D on the web.
@@ -38,6 +38,15 @@ Three.js, GSAP, and Blender, exploring creative development and 3D on the web.
 
 Frontend Architecture &nbsp;·&nbsp; Scalable & Maintainable UI &nbsp;·&nbsp; Full-Stack Development<br>
 Creative Development &nbsp;·&nbsp; Three.js & WebGL &nbsp;·&nbsp; Motion & Interaction
+
+<img src="./hd-looking-for.svg" width="620" alt="looking for"/>
+
+- Remote internship opportunities where I can contribute to meaningful,
+  real-world applications
+- A team environment where I can learn from experienced developers while
+  growing my own skills
+- Collaborative projects that push me to think beyond just writing code —
+  planning, communicating, and building together
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
