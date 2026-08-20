@@ -16,7 +16,7 @@ import pyfiglet
 
 NAME = "HUMAIRA KHALIQ"
 FONT = "small"          # pyfiglet font; try "standard" or "straight" too
-TAG = "</>"              # small coder-vibe mark under the name
+
 
 FG_LIGHT = "#6e7681"
 FG_DARK = "#c9d1d9"
