@@ -39,6 +39,7 @@ Three.js, GSAP, and Blender, exploring creative development and 3D on the web.
 Frontend Architecture &nbsp;·&nbsp; Scalable & Maintainable UI &nbsp;·&nbsp; Full-Stack Development<br>
 Creative Development &nbsp;·&nbsp; Three.js & WebGL &nbsp;·&nbsp; Motion & Interaction
 
+
 <img src="./hd-looking-for.svg" width="620" alt="looking for"/>
 
 - Remote internship opportunities where I can contribute to meaningful,
@@ -47,6 +48,7 @@ Creative Development &nbsp;·&nbsp; Three.js & WebGL &nbsp;·&nbsp; Motion & Int
   growing my own skills
 - Collaborative projects that push me to think beyond just writing code —
   planning, communicating, and building together
+  
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
